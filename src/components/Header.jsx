@@ -11,7 +11,7 @@ const Header = () => {
       <nav>
         <ul className="nav-list">
           <li className="nav-item">
-            <a href="https://pump.fun/board" className="nav-link">Pump Fun</a>
+            <a href="https://pump.fun/zPb7zpyy8xv1UEtvq3bJgLtfDeG3RAXrjTytssDU9pU" className="nav-link">Pump Fun</a>
           </li>
           <li className="nav-item">
             <a href="https://t.me/BookOfAnimePortal" className="nav-link">Telegram</a>
