@@ -11,16 +11,16 @@ const Header = () => {
       <nav>
         <ul className="nav-list">
           <li className="nav-item">
-            <a href="/" className="nav-link">Home</a>
+            <a href="https://pump.fun/board" className="nav-link">Pump Fun</a>
           </li>
           <li className="nav-item">
-            <a href="/about" className="nav-link">About</a>
+            <a href="https://t.me/BookOfAnimePortal" className="nav-link">Telegram</a>
           </li>
           <li className="nav-item">
-            <a href="/services" className="nav-link">Services</a>
+            <a href="https://x.com/BOAonSol" className="nav-link">Twitter</a>
           </li>
           <li className="nav-item">
-            <a href="/contact" className="nav-link">Contact</a>
+            <a href="https://pump.fun/board" className="nav-link">DEX Screener</a>
           </li>
         </ul>
       </nav>
