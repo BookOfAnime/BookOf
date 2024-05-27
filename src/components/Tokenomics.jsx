@@ -9,22 +9,22 @@ const Tokenomics = () => {
     {
       src: "./Pump pill graphic 2.jpg",
       alt: "Slide 1",
-      caption: "Blast through Pump Fun",
+      caption: "Launch on pump.fun",
       animation: "rumble1",
     },
     {
       src: "./Raydium graphic 2.jpg",
       alt: "Slide 2",
-      caption: "DEX Banner Pre-Paid AND DEX ADS PRE PAID!",
+      caption: "Hit Raydium!",
       animation: "rumble2",
     },
     {
       src: "./King.jpg",
       alt: "Slide 3",
-      caption: "500K Market Cap and DEX Trending",
+      caption: "$1,000,000 Market Cap",
       animation: "rumble3",
     },
-    { src: "/Pfp_hires 2.jpg", alt: "Slide 4", caption: "Well? What are you waiting for!", animation: "rumble4" },
+    { src: "/Pfp_hires 2.jpg", alt: "Slide 4", caption: "MOON", animation: "rumble4" },
   ];
 
   const nextSlide = () => {
